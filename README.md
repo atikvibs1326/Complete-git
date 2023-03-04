@@ -29,7 +29,9 @@ after installation open the GitBash on windows or directly on mac
 
 now we know all the history of the project is recorded by the git but how do we see the folder so in the current repository there is ".git" folder which is hidden for everyone
 how can we see it?
-using the git init command
+using the git init command.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 -git init
 this command used to create a new Git repository or initialize an existing directory as a Git repository. When you run git init in a directory, Git creates a new subdirectory named .git that contains all the necessary files to manage the repository. These files include the object database, the configuration files, the index, and the log files.
 
